@@ -1,0 +1,29 @@
+#text{
+    height: 6vh;
+
+    font-size: 1.6rem;
+    line-height: 6vh;
+}
+.keywords li{
+    height: 6vh;
+    line-height: 6vh;
+
+    font-size: 1rem;
+}
+a.bk{
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.8rem;
+    line-height: 6vh;
+    color: #292929;
+
+    width: 29vw;
+    height: 6vh;
+    margin: 1vh 1vw;
+    background-color: bisque;
+}
+span.add{
+    display: inline-block;
+    width: 29vw;
+}
